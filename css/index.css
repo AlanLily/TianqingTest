@@ -197,6 +197,7 @@ section{
 	background-color: #FFFFFF;
 	border: 2px solid #e9e9ea;
 	margin: 40px 50px 29px 50px;
+	cursor: pointer;
 }
 
 .sectRight-bottom{
@@ -234,6 +235,7 @@ section{
 	background-color: #00aaff;
 	border: none;
 	border-radius: 2px;
+	cursor: pointer;
 }
 
 .quxian{
